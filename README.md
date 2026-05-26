@@ -1,9 +1,8 @@
 <div align="center">
 
-<h1>Jonathan K.</h1>
-<h3>Data Infrastructure · Governance · Analytics</h3>
+<h1>Bridging AI Governance, Data Infrastructure, and Operational Accountability</h1>
 
-<p>📍 Austin, TX &nbsp;&nbsp;·&nbsp;&nbsp; 🏢 Microsoft</p>
+<h3>I build robust data pipelines, implement compliance frameworks, and engineer the 'last mile' of automated systems where data alerts translate into physical execution.</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/jonathan-k-184393120/">
@@ -23,31 +22,31 @@
 
 ## 👋 About
 
-I design, architect, and build data systems. My work spans governance frameworks for AI accountability, revenue operations infrastructure for sales and finance teams, and analytical products that turn raw pipeline data into decisions. I take complex data problems, strip them to what matters, and ship production-ready systems — not prototypes.
+Most data teams build for the demo. I build for what runs after it.
 
-Currently at Microsoft. Building publicly.
+I build the data layer — pipelines, governance frameworks, and operational systems for the teams that run on them. Everything here is live.
 
 ---
 
 ## 🚀 Live Projects
 
-### [Sorenson RevOps Center](https://github.com/datadynamo-hub/Senior-Sales-Operations-Analyst)
-
-[![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://senior-sales-operations-analyst.streamlit.app/)
-
-Revenue operations intelligence dashboard built on a 135-deal pipeline, 480-row multi-service-line revenue dataset, and 12-rep performance model. Four-tab application covering pipeline health, risk-adjusted forecasting, multi-motion revenue analysis, and compensation modeling. Forked from an existing scaffold, stripped of infrastructure dependencies, and rebuilt with a CSV-native data layer and Sorenson-specific analytical logic.
-
-`Python` &nbsp; `Streamlit` &nbsp; `Plotly` &nbsp; `pandas` &nbsp; `NumPy`
-
----
-
 ### [SignalPath AI Governance](https://github.com/datadynamo-hub/Deaf-Accessibility-AI-Governance)
 
 [![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://deaf-accessibility-ai-governance.streamlit.app/)
 
-AI governance framework operationalized for deaf and hard-of-hearing accessibility technology. Covers accountability models, risk thresholds, audit lineage, and socio-technical safety architecture aligned to NIST RMF and EU AI Act. Remapped from foundational governance scaffolding into a live, domain-specific case study.
+Moving past simple model audits to operationalize accountability, identity tracking, and socio-technical safety thresholds within deaf and hard-of-hearing accessibility technology. Covers audit lineage, risk thresholds, and accountability models aligned to NIST RMF and EU AI Act. Remapped from foundational governance scaffolds to real, high-stakes outcomes.
 
 `Python` &nbsp; `Streamlit` &nbsp; `NIST RMF` &nbsp; `EU AI Act` &nbsp; `ISO 42001`
+
+---
+
+### [Sorenson RevOps Center](https://github.com/datadynamo-hub/Senior-Sales-Operations-Analyst)
+
+[![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://senior-sales-operations-analyst.streamlit.app/)
+
+Treating data as a product for internal stakeholders. Built on a 135-deal pipeline, 480-row multi-service-line revenue dataset, and 12-rep performance model. Four-tab application covering pipeline health, risk-adjusted forecasting, multi-motion revenue analysis, and compensation modeling. Forked from an existing scaffold, stripped of infrastructure dependencies, rebuilt with a CSV-native data layer and Sorenson-specific analytical logic.
+
+`Python` &nbsp; `Streamlit` &nbsp; `Plotly` &nbsp; `pandas` &nbsp; `NumPy`
 
 ---
 
@@ -114,11 +113,4 @@ AI governance framework operationalized for deaf and hard-of-hearing accessibili
 
 ---
 
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-k-184393120/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datadynamo-hub)
-
----
-
-<p align="center"><i>Building transparently. Shipping production systems. Austin, TX.</i></p>
+<p align="center"><i>Building transparently. Shipping production systems. Securing automated behavior.</i></p>
