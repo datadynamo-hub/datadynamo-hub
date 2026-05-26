@@ -1,65 +1,124 @@
-<h1 align="center">Bridging AI Governance, Data Infrastructure, and Systems Practice</h1>
-<p align="center">
-  <b>I build robust data pipelines, implement compliance frameworks, and engineer the "last mile" of automated systems where data alerts translate into physical execution.</b>
+<div align="center">
+
+<h1>Jonathan K.</h1>
+<h3>Data Infrastructure · Governance · Analytics</h3>
+
+<p>📍 Austin, TX &nbsp;&nbsp;·&nbsp;&nbsp; 🏢 Microsoft</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/jonathan-k-184393120/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/datadynamo-hub">
+    <img src="https://img.shields.io/badge/GitHub-datadynamo--hub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Governance-Operational-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NIST_RMF_%7C_EU_AI_Act-Compliant-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems_Thinking-Frameworks-orange?style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=datadynamo-hub&color=0077B5&style=flat-square&label=Profile+Views" />
+
+</div>
 
 ---
 
-## 🚀 Production Proof Points
-*Instead of high-level theory, I build live frameworks to test governance and revenue operations under stress.*
+## 👋 About
 
-### 1. AI Governance & Deaf Accessibility Systems
-> **The Blueprint:** [Deaf-Accessibility-AI-Governance](https://github.com/datadynamo-hub/Deaf-Accessibility-AI-Governance)
-> 
-> **The Focus:** Moving past simple model audits to operationalize accountability, identity tracking, and socio-technical safety thresholds within accessibility tech. Remapped from foundational governance scaffolds to real, high-stakes outcomes.
+I design, architect, and build data systems. My work spans governance frameworks for AI accountability, revenue operations infrastructure for sales and finance teams, and analytical products that turn raw pipeline data into decisions. I take complex data problems, strip them to what matters, and ship production-ready systems — not prototypes.
 
-### 2. Revenue Operations & Pipeline Intelligence
-> **The Blueprint:** [Senior-Sales-Operations-Analyst](https://github.com/datadynamo-hub/Senior-Sales-Operations-Analyst)
-> 
-> **The Focus:** Treating data as a product for internal stakeholders. An interactive operational dashboard built in Python and Streamlit to drive predictive pipeline accuracy and rep performance tracking.
+Currently at Microsoft. Building publicly.
 
 ---
 
-## 🧠 Core Competencies & Tooling
+## 🚀 Live Projects
+
+### [Sorenson RevOps Center](https://github.com/datadynamo-hub/Senior-Sales-Operations-Analyst)
+
+[![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://senior-sales-operations-analyst.streamlit.app/)
+
+Revenue operations intelligence dashboard built on a 135-deal pipeline, 480-row multi-service-line revenue dataset, and 12-rep performance model. Four-tab application covering pipeline health, risk-adjusted forecasting, multi-motion revenue analysis, and compensation modeling. Forked from an existing scaffold, stripped of infrastructure dependencies, and rebuilt with a CSV-native data layer and Sorenson-specific analytical logic.
+
+`Python` &nbsp; `Streamlit` &nbsp; `Plotly` &nbsp; `pandas` &nbsp; `NumPy`
+
+---
+
+### [SignalPath AI Governance](https://github.com/datadynamo-hub/Deaf-Accessibility-AI-Governance)
+
+[![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://deaf-accessibility-ai-governance.streamlit.app/)
+
+AI governance framework operationalized for deaf and hard-of-hearing accessibility technology. Covers accountability models, risk thresholds, audit lineage, and socio-technical safety architecture aligned to NIST RMF and EU AI Act. Remapped from foundational governance scaffolding into a live, domain-specific case study.
+
+`Python` &nbsp; `Streamlit` &nbsp; `NIST RMF` &nbsp; `EU AI Act` &nbsp; `ISO 42001`
+
+---
+
+## 🧠 Skills & Expertise
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Regulatory & Architecture</h3>
-      <ul>
-        <li><b>Framework Strategy:</b> NIST RMF, EU AI Act, ISO 42001 alignment</li>
-        <li><b>Data GRC:</b> Accountability models, audit lineage, risk mitigation</li>
-        <li><b>Systems Logic:</b> Designing response paths for automated alerts</li>
-      </ul>
+      <h4>Data Governance & Compliance</h4>
+      NIST RMF &nbsp;·&nbsp; EU AI Act &nbsp;·&nbsp; ISO 42001 &nbsp;·&nbsp; Data lineage &nbsp;·&nbsp; Audit frameworks &nbsp;·&nbsp; Accountability modeling &nbsp;·&nbsp; Risk threshold design
     </td>
     <td width="50%" valign="top">
-      <h3>Technical Execution Stack</h3>
-      <ul>
-        <li><b>Languages & UI:</b> Python, Streamlit, FastAPI</li>
-        <li><b>Tooling & Knowledge:</b> Git Automation, Obsidian (Digital Brain)</li>
-        <li><b>Data Stewardship:</b> Building data assets with a service mindset</li>
-      </ul>
+      <h4>Revenue Operations & Analytics</h4>
+      Pipeline forecasting &nbsp;·&nbsp; Risk scoring &nbsp;·&nbsp; Quota modeling &nbsp;·&nbsp; Compensation design &nbsp;·&nbsp; Territory equity &nbsp;·&nbsp; Stage velocity analysis &nbsp;·&nbsp; Scenario modeling
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Data Infrastructure</h4>
+      Pipeline architecture &nbsp;·&nbsp; Cloud data platforms &nbsp;·&nbsp; ETL/ELT design &nbsp;·&nbsp; Data modeling &nbsp;·&nbsp; Warehouse strategy &nbsp;·&nbsp; Rapid prototyping to production
+    </td>
+    <td width="50%" valign="top">
+      <h4>Visualization & Reporting</h4>
+      Interactive dashboards &nbsp;·&nbsp; Executive reporting &nbsp;·&nbsp; BI tooling &nbsp;·&nbsp; Cohort analysis &nbsp;·&nbsp; Risk-adjusted forecasting &nbsp;·&nbsp; Waterfall and heatmap analytics
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 Core Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## 💻 Tech Stack
+
+**Build With**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Work In**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge&logo=monday&logoColor=white)
+![Workday](https://img.shields.io/badge/Workday-F96302?style=for-the-badge&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logoColor=white)
+![Outreach](https://img.shields.io/badge/Outreach-5F27CD?style=for-the-badge&logoColor=white)
+![Alation](https://img.shields.io/badge/Alation-0E4D9B?style=for-the-badge&logoColor=white)
+![OneTrust](https://img.shields.io/badge/OneTrust-00A88F?style=for-the-badge&logoColor=white)
 
 ---
-<p align="center">
-  🤟 <i>Building transparently. Navigating risk. Securing automated behavior.</i>
-</p>
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-k-184393120/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datadynamo-hub)
+
+---
+
+<p align="center"><i>Building transparently. Shipping production systems. Austin, TX.</i></p>
