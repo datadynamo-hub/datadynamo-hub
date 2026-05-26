@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>Bridging AI Governance, Data Infrastructure, and Operational Accountability</h1>
-
-<h3>I build robust data pipelines, implement compliance frameworks, and engineer the 'last mile' of automated systems where data alerts translate into physical execution.</h3>
+<img src="header.svg" width="100%" alt="Bridging AI Governance, Data Infrastructure, and Operational Accountability" />
 
 <p>
   <a href="https://www.linkedin.com/in/jonathan-k-184393120/">
@@ -12,9 +10,9 @@
   <a href="https://github.com/datadynamo-hub">
     <img src="https://img.shields.io/badge/GitHub-datadynamo--hub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=datadynamo-hub&color=0077B5&style=flat-square&label=Profile+Views" />
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=datadynamo-hub&color=0077B5&style=flat-square&label=Profile+Views" />
 
 </div>
 
@@ -24,7 +22,7 @@
 
 Most data teams build for the demo. I build for what runs after it.
 
-I build the data layer — pipelines, governance frameworks, and operational systems for the teams that run on them. Everything here is live.
+Governance teams get audit-ready accountability frameworks aligned to NIST RMF, EU AI Act, and ISO 42001. Operations teams get infrastructure that handles real pipelines at production scale. Everything here is live.
 
 ---
 
