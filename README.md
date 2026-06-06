@@ -28,7 +28,7 @@ Governance teams get audit-ready accountability frameworks aligned to NIST RMF, 
 
 ## 🚀 Live Projects
 
-### [SignalPath AI Governance](https://github.com/datadynamo-hub/Deaf-Accessibility-AI-Governance)
+### [Deaf-Accessibility-AI-Governance](https://github.com/datadynamo-hub/Deaf-Accessibility-AI-Governance)
 
 [![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://deaf-accessibility-ai-governance.streamlit.app/)
 
@@ -45,6 +45,16 @@ Moving past simple model audits to operationalize accountability, identity track
 Treating data as a product for internal stakeholders. Built on a 135-deal pipeline, 480-row multi-service-line revenue dataset, and 12-rep performance model. Four-tab application covering pipeline health, risk-adjusted forecasting, multi-motion revenue analysis, and compensation modeling. Forked from an existing scaffold, stripped of infrastructure dependencies, rebuilt with a CSV-native data layer and Sorenson-specific analytical logic.
 
 `Python` &nbsp; `Streamlit` &nbsp; `Plotly` &nbsp; `pandas` &nbsp; `NumPy`
+
+---
+
+### [MERIDIAN AI Compliance Engine](https://github.com/datadynamo-hub/MERIDIAN)
+
+[![View Live App](https://img.shields.io/badge/View%20Live%20App-%231D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://meridian-one-weld.vercel.app)
+
+Most AI governance tools hand you a list of regulations. This one tells you which ones apply to your organization. Built on a 4-stage elicitation protocol and jurisdiction routing logic across 40+ frameworks in 15 jurisdictions. Six-tab output covering jurisdiction applicability, obligations, cross-cutting themes, action plan, and sources register. Original build, no scaffold. Scenario: SignalPath Technologies, biometric data processing across US, EU, UK, and Canada — a compliance trigger that cannot be engineered away.
+
+`React` &nbsp; `Vercel` &nbsp; `EU AI Act` &nbsp; `NIST AI RMF` &nbsp; `GDPR`
 
 ---
 
