@@ -48,9 +48,9 @@ Treating data as a product for internal stakeholders. Built on a 135-deal pipeli
 
 ---
 
-### [MERIDIAN AI Compliance Engine](https://github.com/datadynamo-hub/MERIDIAN)
+### [MERIDIAN-AI-Compliance-Engine](https://github.com/datadynamo-hub/MERIDIAN)
 
-[![View Live App](https://img.shields.io/badge/View%20Live%20App-%231D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://meridian-one-weld.vercel.app)
+[![View Live Engine](https://img.shields.io/badge/View%20Live%20Engine-%23FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://meridian-one-weld.vercel.app)
 
 Most AI governance tools hand you a list of regulations. This one tells you which ones apply to your organization. Built on a 4-stage elicitation protocol and jurisdiction routing logic across 40+ frameworks in 15 jurisdictions. Six-tab output covering jurisdiction applicability, obligations, cross-cutting themes, action plan, and sources register. Original build, no scaffold. Scenario: SignalPath Technologies, biometric data processing across US, EU, UK, and Canada — a compliance trigger that cannot be engineered away.
 
